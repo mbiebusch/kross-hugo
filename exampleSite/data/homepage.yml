@@ -16,16 +16,16 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Product ownership
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Agile projects
+    progress: 80%
     color: "#9473e6"
-  - title: After Effects
+  - title: Lean UX
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
+  - title: Design Thinking
     progress: 70%
     color: "#ffbcaa"
 experience:
@@ -33,19 +33,19 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: Senior PO / PM
+    company: taikonauten
+    duration: Jan 2019 - Present
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    title: Project Manager Web
+    company: NeosIT GmbH
+    duration: Apr 2012 - Dec 2019
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: Web Lead
+    company: ECW
+    duration: Jul 2008 - Mar 2012
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
@@ -64,21 +64,25 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Product owner
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: UX Design
+  - title: Project Manager
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
-  - title: Interaction Design
+  - title: Lean UX
     icon: ti-panel
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
+  - title: Design Thinking
+    icon: ti-palette
+    content: Content
+    highlighted: ''
 portfolio:
   enable: true
   title: Portfolio
