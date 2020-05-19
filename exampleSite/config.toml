@@ -20,14 +20,14 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "Berlin"
+author = "Marc Biebusch"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+description = "Product owner and project manager in Berlin"
+email = "marc@mbiebusch.de"
 google_analytics_id = ""
 home = "Home"
-logo = "images/logo.png"
+logo = "images/mbiebusch-logo.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
@@ -54,11 +54,8 @@ preloader = ""
 URL = "#"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://instagram.com/m_biebusch"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/mbiebusch"
 icon = "ti-twitter-alt"
