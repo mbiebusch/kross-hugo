@@ -259,6 +259,10 @@ a:hover {
   background: var(--primary-color) !important
 }
 
+.bg-contrast {
+  background: #000 !important
+}
+
 .bg-gray {
   background: #eaeaea !important
 }
