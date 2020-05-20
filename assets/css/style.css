@@ -423,8 +423,8 @@ textarea.form-control {
 }
 
 .navigation.nav-bg {
-  background-color: var(--primary-color);
-  padding: 15px 100px
+  background-color: #fff;
+  padding: 0px 100px
 }
 
 @media(max-width:991px) {
