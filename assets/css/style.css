@@ -441,8 +441,8 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
+  color: var(--primary-color);
   font-family: bwnistaint-xbd;
-  text-transform: uppercase;
   padding: 15px
 }
 
