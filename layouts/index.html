@@ -1,17 +1,17 @@
 {{ define "main" }}
 
   <!-- hero area -->
-  <section class="hero-area bg-primary overflow-hidden" id="parallax">
+  <section class="hero-area overflow-hidden" id="parallax">
     <div class="container">
       <div class="row">
         <div class="col-lg-11 mx-auto">
-          <h1 class="text-white font-tertiary">{{ .Site.Data.homepage.banner.title | safeHTML }}</h1>
+          <h1>{{ .Site.Data.homepage.banner.title | safeHTML }}</h1>
         </div>
       </div>
     </div>
-    <div class="layer-bg w-100">
+    <!-- div class="layer-bg w-100">
       <img class="img-fluid w-100" src="{{`images/illustrations/leaf-bg.png` | relURL}}" alt="bg-shape">
-    </div>
+    </div -->
     <div class="layer" id="l2">
       <img src="{{`images/illustrations/dots-cyan.svg` | relURL}}" alt="bg-shape">
     </div>
