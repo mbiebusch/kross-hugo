@@ -83,7 +83,7 @@ service:
     highlighted: ''
 portfolio:
   enable: true
-  title: Portfolio
+  title: Latest work
   item_show: "5"
 testimonial:
   enable: true
