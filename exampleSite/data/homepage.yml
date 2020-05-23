@@ -60,7 +60,7 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Work
+  title: Fields of work
   item:
   - title: Product owner
     icon: ti-palette
