@@ -20,9 +20,9 @@ item:
   - illustration
   - branding
   - development
-- title: Truma
-  image: images/portfolio/item-5.png
-  project_url: https://truma.de
+- title: Smart Home Appliance
+  image: images/project_secret.png
+  project_url: ''
   categories:
   - design
   - ux
