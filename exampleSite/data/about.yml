@@ -1,41 +1,36 @@
-# work process
+---
 work_process:
-  enable : true
-  title : "Work Process"
+  enable: true
+  title: Work Process
   item:
-  - title : "Research and Plan"
-    icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
-    icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Deliver"
-    icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
-# team
+  - title: Research and Plan
+    icon: images/icons/plan.png
+    content: 'In the beginning of every successful project there is good planning.
+      Well Detailed requirements engineering helps to set the right scope for quality,
+      time, and budget. '
+  - title: Execute
+    icon: images/icons/design.png
+    content: No matter if the project is more driven by design or technology, the
+      right team setup and the best framework is key to execute it in the right way.
+  - title: 'Controlling '
+    icon: images/icons/print.png
+    content: 'No matter how good your effort is, nothing beats a controlling that
+      can identify potential problems before they become a blocker for the project.
+      This is more than just crushing numbers, but also make sure your work environment
+      lifts your team to new heights.   '
 team:
   enable: true
-  title : "My Team"
+  title: Projects
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-      
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-      
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
-
-
-# client logo slider
+  - title: Docomondo
+    image: images/team/member-1.png
+    designation: Creating a new system to handle paperwork
+  - title: Julias Carlie
+    image: images/team/member-2.png
+    designation: Web Developer
+  - title: John Doe
+    image: images/team/member-3.png
+    designation: Designer
 clients_logo_slider:
-  enable : true
-  title : "My Clients"
-  # clients logo comes from 'data/homepage.yml' file
+  enable: false
+  title: My Clients
