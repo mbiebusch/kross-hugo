@@ -23,9 +23,6 @@ skill:
   - title: Lean UX
     progress: 80%
     color: "#bdecf6"
-  - title: Design Thinking
-    progress: 70%
-    color: "#ffbcaa"
 experience:
   enable: true
   title: Experience
@@ -89,14 +86,14 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: Heike
+  - name: Heike Bartels
     image: images/test_heikebartels.png
     designation: CEO, Funder just be agency
     content: It is a pleasure to work with Marc! He is very analytic and structured
       in his work. His technical insights help us with different SMES clients a lot.
       I'm already looking for our next project!
   - name: 'Philipp '
-    image: images/philipp.png
+    image: images/testimonial/client-1.png
     designation: CEO, Funder
     content: His direct manner and logic thinking helped us to shape our upcoming
       product a great deal. His workshops, like our first Design Sprint, were on point
