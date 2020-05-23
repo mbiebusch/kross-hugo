@@ -15,4 +15,4 @@ So, I became a project manager. I learned the craft by getting out of my comfort
 
 On this journey I developed skills that are necessary to **initiate, plan, execute and successfully close projects** of multiple scales, from two-day projects, to Design Sprints, up to a year-long projects.
 
-The stuff I know and work with: Lean UX, Design Thinking Workshops, Design Sprints, Retrospectives, Story Points, Kanban, Scrum, Jira, Confluence, Notion, Asana, Trello, Slack, Microsoft Office, Google Suite, Pages/Numbers/Keynote, Figma, Sketch, Adobe Cloud.
+The stuff I know and work with: Lean UX, Design Thinking Workshops, Design Sprints, UX Labs, Quantitative and qualitative Research, Retrospectives, Story Points, Kanban, Scrum, Jira, Confluence, Notion, Asana, Trello, Slack, Microsoft Office, Google Suite, Pages/Numbers/Keynote, Figma, Sketch, Adobe Cloud.
