@@ -5,16 +5,19 @@ work_process:
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-  - title: Design and Develop
+    content: 'In the beginning of every successful project there is good planning.
+      Well Detailed requirements engineering helps to set the right scope for quality,
+      time, and budget. '
+  - title: Execute
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-  - title: Deliver
+    content: No matter if the project is more driven by design or technology, the
+      right team setup and the best framework is key to execute it in the right way.
+  - title: 'Controlling '
     icon: images/icons/print.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'No matter how good your effort is, nothing beats a controlling that
+      can identify potential problems before they become a blocker for the project.
+      This is more than just crushing numbers, but also make sure your work environment
+      lifts your team to new heights.   '
 team:
   enable: true
   title: Projects
@@ -29,5 +32,5 @@ team:
     image: images/team/member-3.png
     designation: Designer
 clients_logo_slider:
-  enable: true
+  enable: false
   title: My Clients
