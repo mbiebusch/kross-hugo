@@ -60,7 +60,7 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Fields of work
+  title: Work
   item:
   - title: Product owner
     icon: ti-palette
@@ -83,7 +83,7 @@ service:
     highlighted: ''
 portfolio:
   enable: true
-  title: Latest work
+  title: Latest projects
   item_show: "5"
 testimonial:
   enable: true
