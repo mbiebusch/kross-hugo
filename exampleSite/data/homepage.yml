@@ -89,7 +89,7 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: Heike Bartels
+  - name: Heike
     image: images/test_heikebartels.png
     designation: CEO, Funder just be agency
     content: It is a pleasure to work with Marc! He is very analytic and structured
