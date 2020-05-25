@@ -488,6 +488,11 @@ textarea.form-control {
 .navbar-brand img {
   max-width: 60px;
 }
+
+.navbar-brand:hover img {
+  filter: blur(4px);
+}
+
 .hero-area {
   padding: 250px 0 200px;
   position: relative
