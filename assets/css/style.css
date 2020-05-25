@@ -460,6 +460,7 @@ textarea.form-control {
 
   .navigation.fixed-top.nav-bg .navbar-collapse {
     background: none;
+    backdrop-filter: none;
   }
 }
 
