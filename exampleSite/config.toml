@@ -19,7 +19,7 @@ description = "Product owner and project manager in Berlin"
 email = "marc@mbiebusch.de"
 google_analytics_id = ""
 home = "Home"
-logo = "images/mbiebusch_logo.png"
+logo = "images/mbiebusch_logo_round.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
