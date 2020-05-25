@@ -12,7 +12,7 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: ''
   item:
   - title: Project management
     progress: "90"
