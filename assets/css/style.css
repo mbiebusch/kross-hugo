@@ -327,6 +327,10 @@ a:hover {
   z-index: 1
 }
 
+.rounded {
+  border-radius: 1.25rem !important;
+}
+
 .rounded-lg {
   border-radius: 15px
 }
