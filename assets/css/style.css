@@ -435,7 +435,8 @@ textarea.form-control {
 }
 
 .navigation.nav-bg {
-  background-color: #fff;
+  background-color: rgba(255,255,255,0.7);
+  backdrop-filter: blur(5px);
   padding: 0px 100px
 }
 
