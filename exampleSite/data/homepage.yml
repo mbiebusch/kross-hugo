@@ -14,15 +14,18 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Project management
+    progress: "90"
+    color: "#ffbcaa"
   - title: Product ownership
-    progress: 90%
+    progress: 80%
     color: "#fdb157"
+  - title: Lean UX
+    progress: 70%
+    color: "#bdecf6"
   - title: Agile projects
     progress: 80%
     color: "#9473e6"
-  - title: Lean UX
-    progress: 80%
-    color: "#bdecf6"
 experience:
   enable: true
   title: Experience
