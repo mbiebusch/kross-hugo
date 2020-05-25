@@ -336,7 +336,7 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  /*font-family: playfair display, serif !important*/
 }
 
 .font-tertiary {
@@ -456,6 +456,10 @@ textarea.form-control {
   .navigation.fixed-top .navbar-collapse {
     background-color: rgba(255,255,255,0.7);
     backdrop-filter: blur(5px);
+  }
+
+  .navigation.fixed-top.nav-bg .navbar-collapse {
+    background: none;
   }
 }
 
