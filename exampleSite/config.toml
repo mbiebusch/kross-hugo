@@ -4,26 +4,26 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Product owner and product manager in Berlin - Marc Biebusch"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [params]
 address = "Berlin"
 author = "Marc Biebusch"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 "
 description = "Product owner and project manager in Berlin"
 email = "marc@mbiebusch.de"
 google_analytics_id = ""
 home = "Home"
-logo = "images/mbiebusch-logo.png"
+logo = "images/mbiebusch_logo_round.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"

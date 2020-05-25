@@ -23,9 +23,6 @@ skill:
   - title: Lean UX
     progress: 80%
     color: "#bdecf6"
-  - title: Design Thinking
-    progress: 70%
-    color: "#ffbcaa"
 experience:
   enable: true
   title: Experience
@@ -59,7 +56,7 @@ education:
     year: "1998"
     academy: Cardiff School
 service:
-  enable: true
+  enable: false
   title: Work
   item:
   - title: Product owner
@@ -83,7 +80,7 @@ service:
     highlighted: ''
 portfolio:
   enable: true
-  title: Latest work
+  title: Latest projects
   item_show: "5"
 testimonial:
   enable: true
@@ -109,7 +106,7 @@ testimonial:
       time to answer questions and knows how to fulfill all our wishes. Thank you
       for your work!  '
 clients_logo_slider:
-  enable: true
+  enable: false
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com

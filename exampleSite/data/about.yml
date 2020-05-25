@@ -1,7 +1,7 @@
 ---
 work_process:
   enable: true
-  title: Work Process
+  title: My Work Process
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
@@ -15,11 +15,9 @@ work_process:
   - title: 'Controlling '
     icon: images/icons/print.png
     content: 'No matter how good your effort is, nothing beats a controlling that
-      can identify potential problems before they become a blocker for the project.
-      This is more than just crushing numbers, but also make sure your work environment
-      lifts your team to new heights.   '
+      can identify potential problems before they become a blocker for the project. '
 team:
-  enable: true
+  enable: false
   title: Projects
   team_member:
   - title: Docomondo
