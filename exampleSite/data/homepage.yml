@@ -86,7 +86,7 @@ portfolio:
   title: Latest projects
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Heike Bartels
