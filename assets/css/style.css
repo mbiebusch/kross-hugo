@@ -15,8 +15,8 @@ VERSION: Versoin Number
 .rotation-slow { animation: animation-rotation 4s infinite linear }
 
 @keyframes animation-rotation{
-    from{  transform: rotateY(0deg)   }
-    to  {  transform: rotateY(360deg) }
+    from{  transform: rotate(0deg)   }
+    to  {  transform: rotate(360deg) }
 }
 
 
