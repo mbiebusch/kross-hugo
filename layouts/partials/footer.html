@@ -14,11 +14,12 @@
               <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
             </div>
             <div class="col-md-6">
-              <input type="email" id="email" name="email" placeholder="Email Address" class="form-control px-0 mb-4">
+              <input type="email" id="email" name="_replyto" placeholder="Email Address" class="form-control px-0 mb-4">
             </div>
             <div class="col-12">
               <textarea name="message" id="message" class="form-control px-0 mb-4"
                 placeholder="Type Message Here"></textarea>
+                <input type="hidden" name="_subject" value="New submission from work.mbiebusch.de!" />
             </div>
             <div class="col-lg-6 col-10 mx-auto">
               <button class="btn btn-primary w-100">send</button>
@@ -37,18 +38,18 @@
   <div class="section">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-12">
           <h5 class="text-light">Email</h5>
           <p class="text-white paragraph-lg font-secondary">{{.Site.Params.email}}</p>
         </div>
-        <div class="col-md-4">
+        <!-- div class="col-md-4">
           <h5 class="text-light">Phone</h5>
           <p class="text-white paragraph-lg font-secondary">{{.Site.Params.phone}}</p>
         </div>
         <div class="col-md-4">
           <h5 class="text-light">Address</h5>
           <p class="text-white paragraph-lg font-secondary">{{.Site.Params.address}}</p>
-        </div>
+        </div -->
       </div>
     </div>
   </div>
