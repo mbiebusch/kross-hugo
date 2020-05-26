@@ -23,8 +23,8 @@ logo = "images/mbiebusch_logo_round.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
-enable = false
-form_action = "#"
+enable = true
+form_action = "https://formspree.io/mrgyplzw"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
