@@ -7,10 +7,6 @@ title = "Product owner and product manager in Berlin - Marc Biebusch"
 URL = "about"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
 [params]
 address = "Berlin"
 author = "Marc Biebusch"
