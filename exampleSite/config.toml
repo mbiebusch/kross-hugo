@@ -1,4 +1,4 @@
-baseURL = "https://work.mbiebusch.de"
+baseURL = "https://mbiebusch.de"
 languageCode = "de-de"
 summaryLength = "10"
 theme = "kross-hugo"
