@@ -1,6 +1,6 @@
 ---
 title: 'About Marc '
-description: Product owner and project manager in Berlin
+description: Project Manager and PM Lead in Berlin
 author_image: images/about_image.jpg
 author_signature: images/about/signature.png
 
@@ -14,5 +14,7 @@ Starting my professional career in the web development I soon realized that not 
 So, I became a project manager. I learned the craft by getting out of my comfort zone, reading, taking courses, doing and, to be honest, by **failing and learning from mistakes**.
 
 On this journey I developed skills that are necessary to **initiate, plan, execute and successfully close projects** of multiple scales, from two-day projects, to Design Sprints, up to a year-long projects.
+
+Currently I lead the project management team at diesdas.digital. Together shape the future of how we manage projects, improve and innovate on processes, while being mindful to us and our work.
 
 The stuff I know and work with: Lean UX, Design Thinking, Design Sprints, Lean startup method, UX Labs MVPs, Agile, Kanban, Scrum, quantitative and qualitative Research, Facilitation, Retrospectives, Story Points, Jira, Confluence, Notion, Asana, Trello, Slack, Microsoft Office, Google Suite, Pages/Numbers/Keynote, Mural, Miro, Figma, Sketch, Adobe Cloud and many more. 
