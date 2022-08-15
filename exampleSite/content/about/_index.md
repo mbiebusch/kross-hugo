@@ -1,6 +1,6 @@
 ---
 title: 'About Marc '
-description: Project Manager and PM Lead in Berlin
+description: Project Manager and Project Management Lead in Berlin
 author_image: images/about_image.jpg
 author_signature: images/about/signature.png
 
@@ -15,6 +15,8 @@ So, I became a project manager. I learned the craft by getting out of my comfort
 
 On this journey I developed skills that are necessary to **initiate, plan, execute and successfully close projects** of multiple scales, from two-day projects, to Design Sprints, up to a year-long projects.
 
-Currently I lead the project management team at diesdas.digital. Together shape the future of how we manage projects, improve and innovate on processes, while being mindful to us and our work.
+Currently I lead the project management team at diesdas.digital. Together **shape the future of how we manage projects**, improve and innovate on processes, while being mindful to us and our work.
+
+In my spare time I work to [make Berlin](https://klimaliste-berlin.de/) climate neutral [by 2030](https://www.berlin2030.org/) and support a more [sustainable type of supermarket](https://supercoop.de/). Sometimes I even [build things](https://mein.berlin.de/text/paragraphs/3762/).
 
 The stuff I know and work with: Lean UX, Design Thinking, Design Sprints, Lean startup method, UX Labs MVPs, Agile, Kanban, Scrum, quantitative and qualitative Research, Facilitation, Retrospectives, Story Points, Jira, Confluence, Notion, Asana, Trello, Slack, Microsoft Office, Google Suite, Pages/Numbers/Keynote, Mural, Miro, Figma, Sketch, Adobe Cloud and many more. 

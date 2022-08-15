@@ -3,7 +3,7 @@ banner:
   title: Hey! I’m Marc <br> – managing complexity
 about:
   enable: true
-  content: I am a product owner and project manager working in agile und mixed project
+  content: I am project management lead and project manager working in agile und mixed project
     environments. In the last years I brought challenging services, hardware applications,
     apps and websites to the market and helped to digitally transform businesses.
   button:
@@ -31,17 +31,17 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
+    title: Project Management Lead
+    company: diesdas.digital
+    duration: Feb 2022 - Present
+  - logo: images/experience/icon-2.png
     title: Senior PO / PM
     company: taikonauten
-    duration: Jan 2019 - Present
-  - logo: images/experience/icon-2.png
-    title: Project Manager Web
-    company: NeosIT GmbH
-    duration: Apr 2012 - Dec 2019
+    duration: Jan 2019 - Feb 2022
   - logo: images/experience/icon-3.png
-    title: Web Lead
-    company: ECW
-    duration: Jul 2008 - Mar 2012
+    title: Project Manager Web
+    company: NeosIT 
+    duration: Apr 2012 - Dec 2019
 education:
   enable: false
   title: Education
